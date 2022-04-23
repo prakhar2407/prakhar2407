@@ -44,8 +44,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/prakhar-bansal-02a50b194/"><img alt="LinkedIn" src="https://media-exp1.licdn.com/dms/image/C4E03AQG2YHN46pbjJQ/profile-displayphoto-shrink_400_400/0/1629315996896?e=1655942400&v=beta&t=U5gLcUCNkrIWxxuRD6bFeCElm4VgfpmVWAkPmr0tYUM"></a>
-<a href="https://twitter.com/imprkhr24"><img alt="Twitter" src="https://pbs.twimg.com/profile_images/1488559663616765956/StNIzqr5_400x400.jpg"></a>
+<a href="https://www.linkedin.com/in/prakhar-bansal-02a50b194/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/imprkhr24"><img alt="Twitter" src=""></a>
 <a href="mailto:prakhar19csu215@ncuindia.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
