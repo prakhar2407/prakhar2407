@@ -44,9 +44,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/prakhar-bansal-02a50b194/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<!-- <a href="https://www.linkedin.com/in/prakhar-bansal-02a50b194/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/imprkhr24"><img alt="Twitter" src=""></a>
-<a href="mailto:prakhar19csu215@ncuindia.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:prakhar19csu215@ncuindia.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a> -->
 </p>
 
 ⭐️ From [prakhar2407](https://github.com/prakhar2407)
